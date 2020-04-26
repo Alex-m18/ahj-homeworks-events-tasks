@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dbu916nb6p4gbj4h?svg=true)](https://ci.appveyor.com/project/Alex-m18/ahj-homeworks-events-tasks)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
